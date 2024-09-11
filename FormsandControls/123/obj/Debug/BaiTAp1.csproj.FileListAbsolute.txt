@@ -1,0 +1,52 @@
+E:\C#\test\123\123\bin\Debug\123.exe.config
+E:\C#\test\123\123\bin\Debug\123.exe
+E:\C#\test\123\123\bin\Debug\123.pdb
+E:\C#\test\123\123\obj\Debug\_123.Form1.resources
+E:\C#\test\123\123\obj\Debug\_123.Form2.resources
+E:\C#\test\123\123\obj\Debug\_123.Properties.Resources.resources
+E:\C#\test\123\123\obj\Debug\BaiTAp1.csproj.GenerateResource.cache
+E:\C#\test\123\123\obj\Debug\BaiTAp1.csproj.CoreCompileInputs.cache
+E:\C#\test\123\123\obj\Debug\123.exe
+E:\C#\test\123\123\obj\Debug\123.pdb
+E:\C#\test\123\123\obj\Debug\BaiTAp1.csprojAssemblyReference.cache
+E:\C#\test\123\123\obj\Debug\_123.Form3.resources
+E:\C#\test\123\123\obj\Debug\_123.Form4.resources
+E:\C#\test\123\123\obj\Debug\_123.Form5.resources
+E:\C#\test\123\123\obj\Debug\_123.Form6.resources
+E:\C#\test\123\123\obj\Debug\_123.Form7.resources
+E:\C#\test\123\123\obj\Debug\_123.Form9.resources
+E:\C#\test\123\123\obj\Debug\_123.Form8.resources
+E:\C#\thử về winform\bài tập cơ bản\123\obj\Debug\BaiTAp1.csprojAssemblyReference.cache
+E:\C#\thử về winform\bài tập cơ bản\123\obj\Debug\_123.Form1.resources
+E:\C#\thử về winform\bài tập cơ bản\123\obj\Debug\_123.Form2.resources
+E:\C#\thử về winform\bài tập cơ bản\123\obj\Debug\_123.Form3.resources
+E:\C#\thử về winform\bài tập cơ bản\123\obj\Debug\_123.Form4.resources
+E:\C#\thử về winform\bài tập cơ bản\123\obj\Debug\_123.Form5.resources
+E:\C#\thử về winform\bài tập cơ bản\123\obj\Debug\_123.Form6.resources
+E:\C#\thử về winform\bài tập cơ bản\123\obj\Debug\_123.Form7.resources
+E:\C#\thử về winform\bài tập cơ bản\123\obj\Debug\_123.Form8.resources
+E:\C#\thử về winform\bài tập cơ bản\123\obj\Debug\_123.Form9.resources
+E:\C#\thử về winform\bài tập cơ bản\123\obj\Debug\_123.Properties.Resources.resources
+E:\C#\thử về winform\bài tập cơ bản\123\obj\Debug\BaiTAp1.csproj.GenerateResource.cache
+E:\C#\thử về winform\bài tập cơ bản\123\obj\Debug\BaiTAp1.csproj.CoreCompileInputs.cache
+E:\C#\thử về winform\bài tập cơ bản\123\obj\Debug\123.exe
+E:\C#\thử về winform\bài tập cơ bản\123\obj\Debug\123.pdb
+E:\C#\bài tập cơ bản\123\obj\Debug\BaiTAp1.csproj.AssemblyReference.cache
+E:\C#\bài tập cơ bản\123\obj\Debug\BaiTAp1.csproj.SuggestedBindingRedirects.cache
+E:\C#\bài tập cơ bản\123\obj\Debug\_123.Form1.resources
+E:\C#\bài tập cơ bản\123\obj\Debug\_123.Form2.resources
+E:\C#\bài tập cơ bản\123\obj\Debug\_123.Form3.resources
+E:\C#\bài tập cơ bản\123\obj\Debug\_123.Form4.resources
+E:\C#\bài tập cơ bản\123\obj\Debug\_123.Form5.resources
+E:\C#\bài tập cơ bản\123\obj\Debug\_123.Form6.resources
+E:\C#\bài tập cơ bản\123\obj\Debug\_123.Form7.resources
+E:\C#\bài tập cơ bản\123\obj\Debug\_123.Form8.resources
+E:\C#\bài tập cơ bản\123\obj\Debug\_123.Form9.resources
+E:\C#\bài tập cơ bản\123\obj\Debug\_123.Properties.Resources.resources
+E:\C#\bài tập cơ bản\123\obj\Debug\BaiTAp1.csproj.GenerateResource.cache
+E:\C#\bài tập cơ bản\123\obj\Debug\BaiTAp1.csproj.CoreCompileInputs.cache
+E:\C#\bài tập cơ bản\123\obj\Debug\123.exe
+E:\C#\bài tập cơ bản\123\obj\Debug\123.pdb
+E:\C#\bài tập cơ bản\123\bin\Debug\123.exe.config
+E:\C#\bài tập cơ bản\123\bin\Debug\123.exe
+E:\C#\bài tập cơ bản\123\bin\Debug\123.pdb

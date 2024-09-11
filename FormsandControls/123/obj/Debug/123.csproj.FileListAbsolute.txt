@@ -1,0 +1,10 @@
+E:\C#\test\123\123\bin\Debug\123.exe.config
+E:\C#\test\123\123\bin\Debug\123.exe
+E:\C#\test\123\123\bin\Debug\123.pdb
+E:\C#\test\123\123\obj\Debug\123.csprojAssemblyReference.cache
+E:\C#\test\123\123\obj\Debug\_123.Form1.resources
+E:\C#\test\123\123\obj\Debug\_123.Properties.Resources.resources
+E:\C#\test\123\123\obj\Debug\123.csproj.GenerateResource.cache
+E:\C#\test\123\123\obj\Debug\123.csproj.CoreCompileInputs.cache
+E:\C#\test\123\123\obj\Debug\123.exe
+E:\C#\test\123\123\obj\Debug\123.pdb
