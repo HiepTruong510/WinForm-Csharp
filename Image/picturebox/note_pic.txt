@@ -1,0 +1,5 @@
+Visible: Hiển thị ảnh hoặc không 
+gán giá trị điểm ảnh 
+tenhinh.Setpixel(width,hight, Color.FromArgb(R,G,B));
+Bitmap a = new Bitmap(width,hight); or đường dẫn;
+lấy điểm ảnh : Color pixel = tenhinh.Getpixel(width,hiht);

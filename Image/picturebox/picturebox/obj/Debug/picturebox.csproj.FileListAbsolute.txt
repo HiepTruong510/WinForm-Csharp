@@ -1,0 +1,16 @@
+E:\C#\BT of Anh Tài\picturebox\picturebox\bin\Debug\picturebox.exe.config
+E:\C#\BT of Anh Tài\picturebox\picturebox\bin\Debug\picturebox.exe
+E:\C#\BT of Anh Tài\picturebox\picturebox\bin\Debug\picturebox.pdb
+E:\C#\BT of Anh Tài\picturebox\picturebox\obj\Debug\picturebox.csprojAssemblyReference.cache
+E:\C#\BT of Anh Tài\picturebox\picturebox\obj\Debug\picturebox.Form1.resources
+E:\C#\BT of Anh Tài\picturebox\picturebox\obj\Debug\picturebox.Properties.Resources.resources
+E:\C#\BT of Anh Tài\picturebox\picturebox\obj\Debug\picturebox.csproj.GenerateResource.cache
+E:\C#\BT of Anh Tài\picturebox\picturebox\obj\Debug\picturebox.csproj.CoreCompileInputs.cache
+E:\C#\BT of Anh Tài\picturebox\picturebox\obj\Debug\picturebox.exe
+E:\C#\BT of Anh Tài\picturebox\picturebox\obj\Debug\picturebox.pdb
+E:\C#\Anh Tài\picturebox\picturebox\obj\Debug\picturebox.csproj.AssemblyReference.cache
+E:\C#\Anh Tài\picturebox\picturebox\obj\Debug\picturebox.csproj.SuggestedBindingRedirects.cache
+E:\C#\Anh Tài\picturebox\picturebox\obj\Debug\picturebox.Form1.resources
+E:\C#\Anh Tài\picturebox\picturebox\obj\Debug\picturebox.csproj.GenerateResource.cache
+E:\C#\Anh Tài\picturebox\picturebox\obj\Debug\picturebox.exe
+E:\C#\Anh Tài\picturebox\picturebox\obj\Debug\picturebox.pdb
