@@ -1,0 +1,11 @@
+E:\C#\bài tập cơ bản winform\combopicturre\combopicturre\obj\Debug\combopicturre.Form1.resources
+E:\C#\bài tập cơ bản winform\combopicturre\combopicturre\obj\Debug\combopicturre.csproj.GenerateResource.cache
+E:\C#\bài tập cơ bản winform\combopicturre\combopicturre\bin\Debug\combopicturre.exe.config
+E:\C#\bài tập cơ bản winform\combopicturre\combopicturre\bin\Debug\combopicturre.exe
+E:\C#\bài tập cơ bản winform\combopicturre\combopicturre\bin\Debug\combopicturre.pdb
+E:\C#\bài tập cơ bản winform\combopicturre\combopicturre\obj\Debug\combopicturre.Properties.Resources.resources
+E:\C#\bài tập cơ bản winform\combopicturre\combopicturre\obj\Debug\combopicturre.csproj.CoreCompileInputs.cache
+E:\C#\bài tập cơ bản winform\combopicturre\combopicturre\obj\Debug\combopicturre.exe
+E:\C#\bài tập cơ bản winform\combopicturre\combopicturre\obj\Debug\combopicturre.pdb
+E:\C#\bài tập cơ bản winform\combopicturre\combopicturre\obj\Debug\combopicturre.csproj.AssemblyReference.cache
+E:\C#\bài tập cơ bản winform\combopicturre\combopicturre\obj\Debug\combopicturre.csproj.SuggestedBindingRedirects.cache
