@@ -1,0 +1,1 @@
+In this folder are some image related tests and they have corresponding names.
