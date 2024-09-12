@@ -1,0 +1,16 @@
+E:\C#\bt anh tai\mang\mang\bin\Debug\net5.0\mang.exe
+E:\C#\bt anh tai\mang\mang\bin\Debug\net5.0\mang.deps.json
+E:\C#\bt anh tai\mang\mang\bin\Debug\net5.0\mang.runtimeconfig.json
+E:\C#\bt anh tai\mang\mang\bin\Debug\net5.0\mang.runtimeconfig.dev.json
+E:\C#\bt anh tai\mang\mang\bin\Debug\net5.0\mang.dll
+E:\C#\bt anh tai\mang\mang\bin\Debug\net5.0\ref\mang.dll
+E:\C#\bt anh tai\mang\mang\bin\Debug\net5.0\mang.pdb
+E:\C#\bt anh tai\mang\mang\obj\Debug\net5.0\mang.csprojAssemblyReference.cache
+E:\C#\bt anh tai\mang\mang\obj\Debug\net5.0\mang.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\bt anh tai\mang\mang\obj\Debug\net5.0\mang.AssemblyInfoInputs.cache
+E:\C#\bt anh tai\mang\mang\obj\Debug\net5.0\mang.AssemblyInfo.cs
+E:\C#\bt anh tai\mang\mang\obj\Debug\net5.0\mang.csproj.CoreCompileInputs.cache
+E:\C#\bt anh tai\mang\mang\obj\Debug\net5.0\mang.dll
+E:\C#\bt anh tai\mang\mang\obj\Debug\net5.0\ref\mang.dll
+E:\C#\bt anh tai\mang\mang\obj\Debug\net5.0\mang.pdb
+E:\C#\bt anh tai\mang\mang\obj\Debug\net5.0\mang.genruntimeconfig.cache
