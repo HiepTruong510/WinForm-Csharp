@@ -1,0 +1,21 @@
+E:\C#\BT of Anh Tài\truyenvaodatagridview\truyenvaodatagridview\bin\Debug\truyenvaodatagridview.exe.config
+E:\C#\BT of Anh Tài\truyenvaodatagridview\truyenvaodatagridview\bin\Debug\truyenvaodatagridview.exe
+E:\C#\BT of Anh Tài\truyenvaodatagridview\truyenvaodatagridview\bin\Debug\truyenvaodatagridview.pdb
+E:\C#\BT of Anh Tài\truyenvaodatagridview\truyenvaodatagridview\obj\Debug\truyenvaodatagridview.csprojAssemblyReference.cache
+E:\C#\BT of Anh Tài\truyenvaodatagridview\truyenvaodatagridview\obj\Debug\truyenvaodatagridview.Form1.resources
+E:\C#\BT of Anh Tài\truyenvaodatagridview\truyenvaodatagridview\obj\Debug\truyenvaodatagridview.Properties.Resources.resources
+E:\C#\BT of Anh Tài\truyenvaodatagridview\truyenvaodatagridview\obj\Debug\truyenvaodatagridview.csproj.GenerateResource.cache
+E:\C#\BT of Anh Tài\truyenvaodatagridview\truyenvaodatagridview\obj\Debug\truyenvaodatagridview.csproj.CoreCompileInputs.cache
+E:\C#\BT of Anh Tài\truyenvaodatagridview\truyenvaodatagridview\obj\Debug\truyenvaodatagridview.exe
+E:\C#\BT of Anh Tài\truyenvaodatagridview\truyenvaodatagridview\obj\Debug\truyenvaodatagridview.pdb
+E:\C#\Anh Tài\truyenvaodatagridview\truyenvaodatagridview\bin\Debug\truyenvaodatagridview.exe.config
+E:\C#\Anh Tài\truyenvaodatagridview\truyenvaodatagridview\bin\Debug\truyenvaodatagridview.exe
+E:\C#\Anh Tài\truyenvaodatagridview\truyenvaodatagridview\bin\Debug\truyenvaodatagridview.pdb
+E:\C#\Anh Tài\truyenvaodatagridview\truyenvaodatagridview\obj\Debug\truyenvaodatagridview.csproj.AssemblyReference.cache
+E:\C#\Anh Tài\truyenvaodatagridview\truyenvaodatagridview\obj\Debug\truyenvaodatagridview.csproj.SuggestedBindingRedirects.cache
+E:\C#\Anh Tài\truyenvaodatagridview\truyenvaodatagridview\obj\Debug\truyenvaodatagridview.Form1.resources
+E:\C#\Anh Tài\truyenvaodatagridview\truyenvaodatagridview\obj\Debug\truyenvaodatagridview.Properties.Resources.resources
+E:\C#\Anh Tài\truyenvaodatagridview\truyenvaodatagridview\obj\Debug\truyenvaodatagridview.csproj.GenerateResource.cache
+E:\C#\Anh Tài\truyenvaodatagridview\truyenvaodatagridview\obj\Debug\truyenvaodatagridview.csproj.CoreCompileInputs.cache
+E:\C#\Anh Tài\truyenvaodatagridview\truyenvaodatagridview\obj\Debug\truyenvaodatagridview.exe
+E:\C#\Anh Tài\truyenvaodatagridview\truyenvaodatagridview\obj\Debug\truyenvaodatagridview.pdb
