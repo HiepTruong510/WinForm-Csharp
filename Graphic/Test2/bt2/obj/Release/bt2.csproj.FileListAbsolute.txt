@@ -1,0 +1,9 @@
+E:\C#\thầy ngọc\bt2\bt2\bin\Release\bt2.exe.config
+E:\C#\thầy ngọc\bt2\bt2\bin\Release\bt2.exe
+E:\C#\thầy ngọc\bt2\bt2\obj\Release\bt2.csproj.SuggestedBindingRedirects.cache
+E:\C#\thầy ngọc\bt2\bt2\obj\Release\bt2.Form1.resources
+E:\C#\thầy ngọc\bt2\bt2\obj\Release\bt2.Properties.Resources.resources
+E:\C#\thầy ngọc\bt2\bt2\obj\Release\bt2.csproj.GenerateResource.cache
+E:\C#\thầy ngọc\bt2\bt2\obj\Release\bt2.csproj.CoreCompileInputs.cache
+E:\C#\thầy ngọc\bt2\bt2\obj\Release\bt2.exe
+E:\C#\thầy ngọc\bt2\bt2\obj\Release\bt2.pdb
