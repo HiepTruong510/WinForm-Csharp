@@ -1,0 +1,4 @@
+- Load hình chỉ màu đen trắng
+- sử dụng 4 thanh trược để thể hiện sự thay đổi (Tăng hay giảm giá trị màu hiện tại của A,R,G,B)
+- Xoay hình quanh trọng tâm của hình ảnh
+- cắt hình ảnh khung hình chủ nhật (kích thước tùy biến) trong 1 tấm hình, lưu ra 1 hình khác
