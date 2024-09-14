@@ -1,0 +1,11 @@
+E:\C#\thầy ngọc\chuong8_nop\form\form\bin\Debug\form.exe.config
+E:\C#\thầy ngọc\chuong8_nop\form\form\bin\Debug\form.exe
+E:\C#\thầy ngọc\chuong8_nop\form\form\bin\Debug\form.pdb
+E:\C#\thầy ngọc\chuong8_nop\form\form\obj\Debug\form.Form1.resources
+E:\C#\thầy ngọc\chuong8_nop\form\form\obj\Debug\form.Properties.Resources.resources
+E:\C#\thầy ngọc\chuong8_nop\form\form\obj\Debug\form.csproj.GenerateResource.cache
+E:\C#\thầy ngọc\chuong8_nop\form\form\obj\Debug\form.csproj.CoreCompileInputs.cache
+E:\C#\thầy ngọc\chuong8_nop\form\form\obj\Debug\form.exe
+E:\C#\thầy ngọc\chuong8_nop\form\form\obj\Debug\form.pdb
+E:\C#\thầy ngọc\chuong8_nop\form\form\obj\Debug\form.csproj.AssemblyReference.cache
+E:\C#\thầy ngọc\chuong8_nop\form\form\obj\Debug\form.csproj.SuggestedBindingRedirects.cache
