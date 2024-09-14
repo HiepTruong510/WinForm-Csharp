@@ -1,0 +1,21 @@
+C:\Users\Admin\Desktop\new\vegetpixel\vegetpixel\bin\Debug\vegetpixel.exe.config
+C:\Users\Admin\Desktop\new\vegetpixel\vegetpixel\bin\Debug\vegetpixel.exe
+C:\Users\Admin\Desktop\new\vegetpixel\vegetpixel\bin\Debug\vegetpixel.pdb
+C:\Users\Admin\Desktop\new\vegetpixel\vegetpixel\obj\Debug\vegetpixel.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\new\vegetpixel\vegetpixel\obj\Debug\vegetpixel.Form1.resources
+C:\Users\Admin\Desktop\new\vegetpixel\vegetpixel\obj\Debug\vegetpixel.Properties.Resources.resources
+C:\Users\Admin\Desktop\new\vegetpixel\vegetpixel\obj\Debug\vegetpixel.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\new\vegetpixel\vegetpixel\obj\Debug\vegetpixel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\new\vegetpixel\vegetpixel\obj\Debug\vegetpixel.exe
+C:\Users\Admin\Desktop\new\vegetpixel\vegetpixel\obj\Debug\vegetpixel.pdb
+E:\C#\thầy ngọc\chuong8_nop\vegetpixel\vegetpixel\bin\Debug\vegetpixel.exe.config
+E:\C#\thầy ngọc\chuong8_nop\vegetpixel\vegetpixel\bin\Debug\vegetpixel.exe
+E:\C#\thầy ngọc\chuong8_nop\vegetpixel\vegetpixel\bin\Debug\vegetpixel.pdb
+E:\C#\thầy ngọc\chuong8_nop\vegetpixel\vegetpixel\obj\Debug\vegetpixel.Form1.resources
+E:\C#\thầy ngọc\chuong8_nop\vegetpixel\vegetpixel\obj\Debug\vegetpixel.Properties.Resources.resources
+E:\C#\thầy ngọc\chuong8_nop\vegetpixel\vegetpixel\obj\Debug\vegetpixel.csproj.GenerateResource.cache
+E:\C#\thầy ngọc\chuong8_nop\vegetpixel\vegetpixel\obj\Debug\vegetpixel.csproj.CoreCompileInputs.cache
+E:\C#\thầy ngọc\chuong8_nop\vegetpixel\vegetpixel\obj\Debug\vegetpixel.exe
+E:\C#\thầy ngọc\chuong8_nop\vegetpixel\vegetpixel\obj\Debug\vegetpixel.pdb
+E:\C#\thầy ngọc\chuong8_nop\vegetpixel\vegetpixel\obj\Debug\vegetpixel.csproj.AssemblyReference.cache
+E:\C#\thầy ngọc\chuong8_nop\vegetpixel\vegetpixel\obj\Debug\vegetpixel.csproj.SuggestedBindingRedirects.cache
