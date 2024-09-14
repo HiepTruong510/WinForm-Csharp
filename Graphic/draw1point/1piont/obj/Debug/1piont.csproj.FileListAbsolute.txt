@@ -1,0 +1,11 @@
+E:\C#\thầy ngọc\chuong8_nop\1piont\1piont\bin\Debug\1piont.exe.config
+E:\C#\thầy ngọc\chuong8_nop\1piont\1piont\bin\Debug\1piont.exe
+E:\C#\thầy ngọc\chuong8_nop\1piont\1piont\bin\Debug\1piont.pdb
+E:\C#\thầy ngọc\chuong8_nop\1piont\1piont\obj\Debug\_1piont.Form1.resources
+E:\C#\thầy ngọc\chuong8_nop\1piont\1piont\obj\Debug\_1piont.Properties.Resources.resources
+E:\C#\thầy ngọc\chuong8_nop\1piont\1piont\obj\Debug\1piont.csproj.GenerateResource.cache
+E:\C#\thầy ngọc\chuong8_nop\1piont\1piont\obj\Debug\1piont.csproj.CoreCompileInputs.cache
+E:\C#\thầy ngọc\chuong8_nop\1piont\1piont\obj\Debug\1piont.exe
+E:\C#\thầy ngọc\chuong8_nop\1piont\1piont\obj\Debug\1piont.pdb
+E:\C#\thầy ngọc\chuong8_nop\1piont\1piont\obj\Debug\1piont.csproj.AssemblyReference.cache
+E:\C#\thầy ngọc\chuong8_nop\1piont\1piont\obj\Debug\1piont.csproj.SuggestedBindingRedirects.cache
