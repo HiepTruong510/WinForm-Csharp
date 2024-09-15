@@ -1,0 +1,21 @@
+E:\C#\thầy tommy thai\xamsangmau\xamsangmau\bin\Debug\xamsangmau.exe.config
+E:\C#\thầy tommy thai\xamsangmau\xamsangmau\bin\Debug\xamsangmau.exe
+E:\C#\thầy tommy thai\xamsangmau\xamsangmau\bin\Debug\xamsangmau.pdb
+E:\C#\thầy tommy thai\xamsangmau\xamsangmau\obj\Debug\xamsangmau.csprojAssemblyReference.cache
+E:\C#\thầy tommy thai\xamsangmau\xamsangmau\obj\Debug\xamsangmau.Form1.resources
+E:\C#\thầy tommy thai\xamsangmau\xamsangmau\obj\Debug\xamsangmau.Properties.Resources.resources
+E:\C#\thầy tommy thai\xamsangmau\xamsangmau\obj\Debug\xamsangmau.csproj.GenerateResource.cache
+E:\C#\thầy tommy thai\xamsangmau\xamsangmau\obj\Debug\xamsangmau.csproj.CoreCompileInputs.cache
+E:\C#\thầy tommy thai\xamsangmau\xamsangmau\obj\Debug\xamsangmau.exe
+E:\C#\thầy tommy thai\xamsangmau\xamsangmau\obj\Debug\xamsangmau.pdb
+E:\C#\thầy ngọc\xamsangmau\xamsangmau\bin\Debug\xamsangmau.exe.config
+E:\C#\thầy ngọc\xamsangmau\xamsangmau\bin\Debug\xamsangmau.exe
+E:\C#\thầy ngọc\xamsangmau\xamsangmau\bin\Debug\xamsangmau.pdb
+E:\C#\thầy ngọc\xamsangmau\xamsangmau\obj\Debug\xamsangmau.csproj.AssemblyReference.cache
+E:\C#\thầy ngọc\xamsangmau\xamsangmau\obj\Debug\xamsangmau.csproj.SuggestedBindingRedirects.cache
+E:\C#\thầy ngọc\xamsangmau\xamsangmau\obj\Debug\xamsangmau.Form1.resources
+E:\C#\thầy ngọc\xamsangmau\xamsangmau\obj\Debug\xamsangmau.Properties.Resources.resources
+E:\C#\thầy ngọc\xamsangmau\xamsangmau\obj\Debug\xamsangmau.csproj.GenerateResource.cache
+E:\C#\thầy ngọc\xamsangmau\xamsangmau\obj\Debug\xamsangmau.csproj.CoreCompileInputs.cache
+E:\C#\thầy ngọc\xamsangmau\xamsangmau\obj\Debug\xamsangmau.exe
+E:\C#\thầy ngọc\xamsangmau\xamsangmau\obj\Debug\xamsangmau.pdb
