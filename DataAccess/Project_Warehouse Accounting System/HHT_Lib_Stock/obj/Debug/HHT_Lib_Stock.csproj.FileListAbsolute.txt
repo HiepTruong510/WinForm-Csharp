@@ -1,0 +1,27 @@
+D:\2021\Projects\Stocks\AutoStock\HHT_Lib_Stock\obj\Debug\HHT_Lib_Stock.csprojAssemblyReference.cache
+D:\2021\Projects\Stocks\AutoStock\HHT_Lib_Stock\obj\Debug\HHT_Lib_Stock.csproj.CoreCompileInputs.cache
+D:\2021\Projects\Stocks\AutoStock\HHT_Lib_Stock\bin\Debug\HHT_Lib_Stock.dll
+D:\2021\Projects\Stocks\AutoStock\HHT_Lib_Stock\bin\Debug\HHT_Lib_Stock.pdb
+D:\2021\Projects\Stocks\AutoStock\HHT_Lib_Stock\bin\Debug\HHT_Connection.dll
+D:\2021\Projects\Stocks\AutoStock\HHT_Lib_Stock\bin\Debug\HHT_Connection.pdb
+D:\2021\Projects\Stocks\AutoStock\HHT_Lib_Stock\obj\Debug\HHT_Lib_Stock.csproj.CopyComplete
+D:\2021\Projects\Stocks\AutoStock\HHT_Lib_Stock\obj\Debug\HHT_Lib_Stock.dll
+D:\2021\Projects\Stocks\AutoStock\HHT_Lib_Stock\obj\Debug\HHT_Lib_Stock.pdb
+E:\C#\thầy ngọc\bt trên web\AutoStock\HHT_Lib_Stock\bin\Debug\HHT_Lib_Stock.dll
+E:\C#\thầy ngọc\bt trên web\AutoStock\HHT_Lib_Stock\bin\Debug\HHT_Lib_Stock.pdb
+E:\C#\thầy ngọc\bt trên web\AutoStock\HHT_Lib_Stock\bin\Debug\HHT_Connection.dll
+E:\C#\thầy ngọc\bt trên web\AutoStock\HHT_Lib_Stock\bin\Debug\HHT_Connection.pdb
+E:\C#\thầy ngọc\bt trên web\AutoStock\HHT_Lib_Stock\obj\Debug\HHT_Lib_Stock.csprojAssemblyReference.cache
+E:\C#\thầy ngọc\bt trên web\AutoStock\HHT_Lib_Stock\obj\Debug\HHT_Lib_Stock.csproj.CoreCompileInputs.cache
+E:\C#\thầy ngọc\bt trên web\AutoStock\HHT_Lib_Stock\obj\Debug\HHT_Lib_Stock.csproj.CopyComplete
+E:\C#\thầy ngọc\bt trên web\AutoStock\HHT_Lib_Stock\obj\Debug\HHT_Lib_Stock.dll
+E:\C#\thầy ngọc\bt trên web\AutoStock\HHT_Lib_Stock\obj\Debug\HHT_Lib_Stock.pdb
+E:\C#\thầy ngọc\cong viec\form\HHT_Lib_Stock\bin\Debug\HHT_Lip_Stock.dll
+E:\C#\thầy ngọc\cong viec\form\HHT_Lib_Stock\bin\Debug\HHT_Lip_Stock.pdb
+E:\C#\thầy ngọc\cong viec\form\HHT_Lib_Stock\bin\Debug\HHT_Connection.dll
+E:\C#\thầy ngọc\cong viec\form\HHT_Lib_Stock\bin\Debug\HHT_Connection.pdb
+E:\C#\thầy ngọc\cong viec\form\HHT_Lib_Stock\obj\Debug\HHT_Lib_Stock.csprojAssemblyReference.cache
+E:\C#\thầy ngọc\cong viec\form\HHT_Lib_Stock\obj\Debug\HHT_Lib_Stock.csproj.CoreCompileInputs.cache
+E:\C#\thầy ngọc\cong viec\form\HHT_Lib_Stock\obj\Debug\HHT_Lib_Stock.csproj.CopyComplete
+E:\C#\thầy ngọc\cong viec\form\HHT_Lib_Stock\obj\Debug\HHT_Lip_Stock.dll
+E:\C#\thầy ngọc\cong viec\form\HHT_Lib_Stock\obj\Debug\HHT_Lip_Stock.pdb

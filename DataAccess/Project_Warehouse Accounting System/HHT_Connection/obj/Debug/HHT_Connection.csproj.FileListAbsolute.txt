@@ -1,0 +1,18 @@
+D:\2021\Projects\Stocks\AutoStock\HHT_Connection\bin\Debug\HHT_Connection.dll
+D:\2021\Projects\Stocks\AutoStock\HHT_Connection\bin\Debug\HHT_Connection.pdb
+D:\2021\Projects\Stocks\AutoStock\HHT_Connection\obj\Debug\HHT_Connection.csprojAssemblyReference.cache
+D:\2021\Projects\Stocks\AutoStock\HHT_Connection\obj\Debug\HHT_Connection.csproj.CoreCompileInputs.cache
+D:\2021\Projects\Stocks\AutoStock\HHT_Connection\obj\Debug\HHT_Connection.dll
+D:\2021\Projects\Stocks\AutoStock\HHT_Connection\obj\Debug\HHT_Connection.pdb
+E:\C#\thầy ngọc\bt trên web\AutoStock\HHT_Connection\bin\Debug\HHT_Connection.dll
+E:\C#\thầy ngọc\bt trên web\AutoStock\HHT_Connection\bin\Debug\HHT_Connection.pdb
+E:\C#\thầy ngọc\bt trên web\AutoStock\HHT_Connection\obj\Debug\HHT_Connection.csprojAssemblyReference.cache
+E:\C#\thầy ngọc\bt trên web\AutoStock\HHT_Connection\obj\Debug\HHT_Connection.csproj.CoreCompileInputs.cache
+E:\C#\thầy ngọc\bt trên web\AutoStock\HHT_Connection\obj\Debug\HHT_Connection.dll
+E:\C#\thầy ngọc\bt trên web\AutoStock\HHT_Connection\obj\Debug\HHT_Connection.pdb
+E:\C#\thầy ngọc\cong viec\form\HHT_Connection\bin\Debug\HHT_Connection.dll
+E:\C#\thầy ngọc\cong viec\form\HHT_Connection\bin\Debug\HHT_Connection.pdb
+E:\C#\thầy ngọc\cong viec\form\HHT_Connection\obj\Debug\HHT_Connection.csprojAssemblyReference.cache
+E:\C#\thầy ngọc\cong viec\form\HHT_Connection\obj\Debug\HHT_Connection.csproj.CoreCompileInputs.cache
+E:\C#\thầy ngọc\cong viec\form\HHT_Connection\obj\Debug\HHT_Connection.dll
+E:\C#\thầy ngọc\cong viec\form\HHT_Connection\obj\Debug\HHT_Connection.pdb

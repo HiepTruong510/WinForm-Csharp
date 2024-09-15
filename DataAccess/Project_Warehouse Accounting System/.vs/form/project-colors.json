@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "beea73bf-4640-4100-bac9-a0556585edf3": {
+      "ProjectGuid": "beea73bf-4640-4100-bac9-a0556585edf3",
+      "DisplayName": "form",
+      "ColorIndex": 0
+    },
+    "2e9afde8-1362-4cf4-91e5-c3066e78a721": {
+      "ProjectGuid": "2e9afde8-1362-4cf4-91e5-c3066e78a721",
+      "DisplayName": "HHT_Lib_Stock",
+      "ColorIndex": 1
+    },
+    "9e3c3a74-f4f7-41ec-997d-91be47c6ede2": {
+      "ProjectGuid": "9e3c3a74-f4f7-41ec-997d-91be47c6ede2",
+      "DisplayName": "HHT_Connection",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
