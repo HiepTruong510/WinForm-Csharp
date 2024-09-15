@@ -1,0 +1,11 @@
+E:\C#\thầy ngọc\vẽ ảnh thầy\vẽ ảnh thầy\bin\Debug\vẽ ảnh thầy.exe.config
+E:\C#\thầy ngọc\vẽ ảnh thầy\vẽ ảnh thầy\bin\Debug\vẽ ảnh thầy.exe
+E:\C#\thầy ngọc\vẽ ảnh thầy\vẽ ảnh thầy\bin\Debug\vẽ ảnh thầy.pdb
+E:\C#\thầy ngọc\vẽ ảnh thầy\vẽ ảnh thầy\obj\Debug\vẽ_ảnh_thầy.Form1.resources
+E:\C#\thầy ngọc\vẽ ảnh thầy\vẽ ảnh thầy\obj\Debug\vẽ_ảnh_thầy.Properties.Resources.resources
+E:\C#\thầy ngọc\vẽ ảnh thầy\vẽ ảnh thầy\obj\Debug\vẽ ảnh thầy.csproj.GenerateResource.cache
+E:\C#\thầy ngọc\vẽ ảnh thầy\vẽ ảnh thầy\obj\Debug\vẽ ảnh thầy.csproj.CoreCompileInputs.cache
+E:\C#\thầy ngọc\vẽ ảnh thầy\vẽ ảnh thầy\obj\Debug\vẽ ảnh thầy.exe
+E:\C#\thầy ngọc\vẽ ảnh thầy\vẽ ảnh thầy\obj\Debug\vẽ ảnh thầy.pdb
+E:\C#\thầy ngọc\vẽ ảnh thầy\vẽ ảnh thầy\obj\Debug\vẽ ảnh thầy.csproj.AssemblyReference.cache
+E:\C#\thầy ngọc\vẽ ảnh thầy\vẽ ảnh thầy\obj\Debug\vẽ ảnh thầy.csproj.SuggestedBindingRedirects.cache
