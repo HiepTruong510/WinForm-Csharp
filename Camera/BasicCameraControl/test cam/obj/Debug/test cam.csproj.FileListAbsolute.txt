@@ -1,0 +1,35 @@
+E:\C#\thầy tommy thai\bt3\test cam\test cam\bin\Debug\test cam.exe.config
+E:\C#\thầy tommy thai\bt3\test cam\test cam\bin\Debug\test cam.exe
+E:\C#\thầy tommy thai\bt3\test cam\test cam\bin\Debug\test cam.pdb
+E:\C#\thầy tommy thai\bt3\test cam\test cam\bin\Debug\AForge.Video.DirectShow.dll
+E:\C#\thầy tommy thai\bt3\test cam\test cam\bin\Debug\AForge.Video.dll
+E:\C#\thầy tommy thai\bt3\test cam\test cam\bin\Debug\AForge.dll
+E:\C#\thầy tommy thai\bt3\test cam\test cam\bin\Debug\AForge.Video.xml
+E:\C#\thầy tommy thai\bt3\test cam\test cam\bin\Debug\AForge.Video.DirectShow.xml
+E:\C#\thầy tommy thai\bt3\test cam\test cam\bin\Debug\AForge.xml
+E:\C#\thầy tommy thai\bt3\test cam\test cam\obj\Debug\test cam.csprojAssemblyReference.cache
+E:\C#\thầy tommy thai\bt3\test cam\test cam\obj\Debug\test_cam.Form1.resources
+E:\C#\thầy tommy thai\bt3\test cam\test cam\obj\Debug\test_cam.Properties.Resources.resources
+E:\C#\thầy tommy thai\bt3\test cam\test cam\obj\Debug\test cam.csproj.GenerateResource.cache
+E:\C#\thầy tommy thai\bt3\test cam\test cam\obj\Debug\test cam.csproj.CoreCompileInputs.cache
+E:\C#\thầy tommy thai\bt3\test cam\test cam\obj\Debug\test cam.csproj.CopyComplete
+E:\C#\thầy tommy thai\bt3\test cam\test cam\obj\Debug\test cam.exe
+E:\C#\thầy tommy thai\bt3\test cam\test cam\obj\Debug\test cam.pdb
+E:\C#\thầy ngọc\bt3\test cam\test cam\bin\Debug\test cam.exe.config
+E:\C#\thầy ngọc\bt3\test cam\test cam\bin\Debug\test cam.exe
+E:\C#\thầy ngọc\bt3\test cam\test cam\bin\Debug\test cam.pdb
+E:\C#\thầy ngọc\bt3\test cam\test cam\bin\Debug\AForge.Video.DirectShow.dll
+E:\C#\thầy ngọc\bt3\test cam\test cam\bin\Debug\AForge.Video.dll
+E:\C#\thầy ngọc\bt3\test cam\test cam\bin\Debug\AForge.dll
+E:\C#\thầy ngọc\bt3\test cam\test cam\bin\Debug\AForge.Video.xml
+E:\C#\thầy ngọc\bt3\test cam\test cam\bin\Debug\AForge.Video.DirectShow.xml
+E:\C#\thầy ngọc\bt3\test cam\test cam\bin\Debug\AForge.xml
+E:\C#\thầy ngọc\bt3\test cam\test cam\obj\Debug\test cam.csproj.AssemblyReference.cache
+E:\C#\thầy ngọc\bt3\test cam\test cam\obj\Debug\test cam.csproj.SuggestedBindingRedirects.cache
+E:\C#\thầy ngọc\bt3\test cam\test cam\obj\Debug\test_cam.Form1.resources
+E:\C#\thầy ngọc\bt3\test cam\test cam\obj\Debug\test_cam.Properties.Resources.resources
+E:\C#\thầy ngọc\bt3\test cam\test cam\obj\Debug\test cam.csproj.GenerateResource.cache
+E:\C#\thầy ngọc\bt3\test cam\test cam\obj\Debug\test cam.csproj.CoreCompileInputs.cache
+E:\C#\thầy ngọc\bt3\test cam\test cam\obj\Debug\test cam.csproj.CopyComplete
+E:\C#\thầy ngọc\bt3\test cam\test cam\obj\Debug\test cam.exe
+E:\C#\thầy ngọc\bt3\test cam\test cam\obj\Debug\test cam.pdb

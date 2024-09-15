@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4e454449-6492-4ce9-b3ef-9d01eddb82a6": {
+      "ProjectGuid": "4e454449-6492-4ce9-b3ef-9d01eddb82a6",
+      "DisplayName": "test cam",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
