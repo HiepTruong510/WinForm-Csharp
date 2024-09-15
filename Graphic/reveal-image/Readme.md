@@ -1,0 +1,1 @@
+**Click on a photo from the grayscale photo, it will gradually show the original color of the image.**
