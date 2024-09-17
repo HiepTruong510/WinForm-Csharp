@@ -1,0 +1,1 @@
+Gồm 1 combobox và picturebox khi xổ combobox xuống chọn một giá trị bất kỳ thì sẽ hiện ra ảnh đó trên picturebox
