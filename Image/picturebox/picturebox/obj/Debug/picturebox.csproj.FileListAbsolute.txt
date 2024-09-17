@@ -14,3 +14,9 @@ E:\C#\Anh Tài\picturebox\picturebox\obj\Debug\picturebox.Form1.resources
 E:\C#\Anh Tài\picturebox\picturebox\obj\Debug\picturebox.csproj.GenerateResource.cache
 E:\C#\Anh Tài\picturebox\picturebox\obj\Debug\picturebox.exe
 E:\C#\Anh Tài\picturebox\picturebox\obj\Debug\picturebox.pdb
+E:\C#\GitHub\Winform\Image\picturebox\picturebox\obj\Debug\picturebox.csproj.AssemblyReference.cache
+E:\C#\GitHub\Winform\Image\picturebox\picturebox\obj\Debug\picturebox.csproj.SuggestedBindingRedirects.cache
+E:\C#\GitHub\Winform\Image\picturebox\picturebox\obj\Debug\picturebox.Form1.resources
+E:\C#\GitHub\Winform\Image\picturebox\picturebox\obj\Debug\picturebox.csproj.GenerateResource.cache
+E:\C#\GitHub\Winform\Image\picturebox\picturebox\obj\Debug\picturebox.exe
+E:\C#\GitHub\Winform\Image\picturebox\picturebox\obj\Debug\picturebox.pdb
