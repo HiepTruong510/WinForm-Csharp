@@ -1,0 +1,1 @@
+Sử dụng picturebox để thêm một ảnh vào, sau đó nhấn vào sự kiện để chuyển ảnh từ ảnh gốc sang ảnh thành ảnh có màu xám
