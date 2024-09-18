@@ -1,0 +1,1 @@
+Ta có thể thêm một đường dẫn ảnh vào để chạy chương trình, sau đó ta có thể xác định được vị trí chính xác tại các điểm mà ta muốn kiểm tra

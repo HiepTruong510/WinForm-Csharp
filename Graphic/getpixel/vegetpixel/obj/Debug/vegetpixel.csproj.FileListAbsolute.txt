@@ -19,3 +19,14 @@ E:\C#\thầy ngọc\chuong8_nop\vegetpixel\vegetpixel\obj\Debug\vegetpixel.exe
 E:\C#\thầy ngọc\chuong8_nop\vegetpixel\vegetpixel\obj\Debug\vegetpixel.pdb
 E:\C#\thầy ngọc\chuong8_nop\vegetpixel\vegetpixel\obj\Debug\vegetpixel.csproj.AssemblyReference.cache
 E:\C#\thầy ngọc\chuong8_nop\vegetpixel\vegetpixel\obj\Debug\vegetpixel.csproj.SuggestedBindingRedirects.cache
+E:\C#\GitHub\Winform\Graphic\getpixel\vegetpixel\bin\Debug\vegetpixel.exe.config
+E:\C#\GitHub\Winform\Graphic\getpixel\vegetpixel\bin\Debug\vegetpixel.exe
+E:\C#\GitHub\Winform\Graphic\getpixel\vegetpixel\bin\Debug\vegetpixel.pdb
+E:\C#\GitHub\Winform\Graphic\getpixel\vegetpixel\obj\Debug\vegetpixel.csproj.AssemblyReference.cache
+E:\C#\GitHub\Winform\Graphic\getpixel\vegetpixel\obj\Debug\vegetpixel.csproj.SuggestedBindingRedirects.cache
+E:\C#\GitHub\Winform\Graphic\getpixel\vegetpixel\obj\Debug\vegetpixel.Form1.resources
+E:\C#\GitHub\Winform\Graphic\getpixel\vegetpixel\obj\Debug\vegetpixel.Properties.Resources.resources
+E:\C#\GitHub\Winform\Graphic\getpixel\vegetpixel\obj\Debug\vegetpixel.csproj.GenerateResource.cache
+E:\C#\GitHub\Winform\Graphic\getpixel\vegetpixel\obj\Debug\vegetpixel.csproj.CoreCompileInputs.cache
+E:\C#\GitHub\Winform\Graphic\getpixel\vegetpixel\obj\Debug\vegetpixel.exe
+E:\C#\GitHub\Winform\Graphic\getpixel\vegetpixel\obj\Debug\vegetpixel.pdb
