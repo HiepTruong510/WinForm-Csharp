@@ -1,0 +1,1 @@
+Tạo một mẫu được thiết kế theo yêu cầu, ở file Require là hình ảnh yêu cầu ở dạng minh họa
