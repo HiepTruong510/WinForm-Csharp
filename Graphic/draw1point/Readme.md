@@ -1,0 +1,1 @@
+Từ ảnh ở file require ta sử thiết kế lại form đẽ vẽ ra được hỉnh ảnh mới tương tự hình ảnh yêu cầu
